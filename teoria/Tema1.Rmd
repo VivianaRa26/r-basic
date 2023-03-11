@@ -1,6 +1,6 @@
 ---
 title: Tema 1 - Trabajando con R
-author: Juan Gabriel Gomila & María Santos
+author: Viviana Ramirez Arteaga
 output: 
   ioslides_presentation:
     widescreen: true
